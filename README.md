@@ -5,7 +5,7 @@
 
 That's pretty easy. The application is hosted on github pages which can be accessed ![here](https://github.com/amanbagrecha/store-info/)
 
-<details><summary>Open the application and click on `GET STARTED`</summary>
+<details><summary>Open the application and click on <code>GET STARTED</code></summary>
 ![img](https://github.com/amanbagrecha/store-info/blob/main/src/home.png)
 </details>
 
