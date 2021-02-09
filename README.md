@@ -6,9 +6,12 @@
 That's pretty easy. The application is hosted on github pages which can be accessed ![here](https://github.com/amanbagrecha/store-info/)
 - Open the application and click on `GET STARTED`
 
-![img](https://github.com/amanbagrecha/store-info/blob/main/src/map_locator.gif)
+![img](https://github.com/amanbagrecha/store-info/blob/main/src/home.png)
 
 - Click on the location icon to open popup and information about the store
+
+![img](https://github.com/amanbagrecha/store-info/blob/main/src/map_locator.gif)
+
 If you want to go back click on the `Home` button on the ribbon
 
 ## 🏁 Technology Stack
