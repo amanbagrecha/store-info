@@ -34,12 +34,15 @@ To use the application on your local machine, simply follow the steps mentioned 
 
 2. Clone the Repo by going to your local Git Client and pushing in the command:
 
-```git clone https://github.com/amanbagrecha/store-info.git```
+```sh
+git clone https://github.com/amanbagrecha/store-info.git
+```
 
-3. Run the application
+3. Run the application by pushing in the command:
 
-```start index.html```
-enjoy!
+```sh
+start index.html
+```
 
 ## 🏁 Technology Stack
 
