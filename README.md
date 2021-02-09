@@ -1,9 +1,9 @@
 # 💥store-info
 ## Web application which lets you access store information on click of marker.
-***store-info*** is developed to let users access the whereabouts of store. In this application a static geojson data has been added courtesy of ![google maps](https://developers.google.com/maps/solutions/store-locator/simple-store-locator).  Leaflet, an open-source lightweight JavaScript library has been used for mapping. 
+***store-info*** is developed to let users access the whereabouts of store. In this application a static geojson data has been added courtesy of [google maps](https://developers.google.com/maps/solutions/store-locator/simple-store-locator).  Leaflet, an open-source lightweight JavaScript library has been used for mapping. 
 ## 🛠️ Usage
 
-That's pretty easy. The application is hosted on github pages which can be accessed :link: ![here](https://github.com/amanbagrecha/store-info/)
+That's pretty easy. The application is hosted on github pages which can be accessed :link: [here](https://github.com/amanbagrecha/store-info/)
 
 <details><summary>Open the application and click on <code>GET STARTED</code></summary>
 
@@ -26,7 +26,10 @@ That's pretty easy. The application is hosted on github pages which can be acces
 
 ---
 ## :twisted_rightwards_arrows: Local Installation
-To use the application on your local machine, simply clone the repository using the following
+To use the application on your local machine, simply follow the steps mentioned below.
+1. Fork the repository
+2. Clone it
+3. start using it
 ## 🏁 Technology Stack
 
 * [Leaflet](https://github.com/Leaflet/Leaflet)
