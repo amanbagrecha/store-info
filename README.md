@@ -27,9 +27,20 @@ That's pretty easy. The application is hosted on github pages which can be acces
 ---
 ## :twisted_rightwards_arrows: Local Installation
 To use the application on your local machine, simply follow the steps mentioned below.
+
 1. Fork the repository
-2. Clone it
-3. start using it
+
+![fork_button](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
+
+2. Clone the Repo by going to your local Git Client and pushing in the command:
+
+```git clone https://github.com/amanbagrecha/store-info.git```
+
+3. Run the application
+
+```start index.html```
+enjoy!
+
 ## 🏁 Technology Stack
 
 * [Leaflet](https://github.com/Leaflet/Leaflet)
