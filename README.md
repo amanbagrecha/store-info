@@ -17,6 +17,9 @@ That's pretty easy. The application is hosted on github pages which can be acces
 ![img](https://github.com/amanbagrecha/store-info/blob/main/src/back_home.png)
 </details>
 
+[comment]: <> (index.html is the home page, map.html is the second page. )
+
+[comment]: <> (In assets, leaflet.js and map.css are file which should be altered for mapping changes. )
 
 ---
 
