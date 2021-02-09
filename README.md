@@ -6,14 +6,17 @@
 That's pretty easy. The application is hosted on github pages which can be accessed ![here](https://github.com/amanbagrecha/store-info/)
 
 <details><summary>Open the application and click on <code>GET STARTED</code></summary>
+
 ![img](https://github.com/amanbagrecha/store-info/blob/main/src/home.png)
 </details>
 
 <details><summary>Click on the location icon to open popup and information about the store</summary>
+
 ![img](https://github.com/amanbagrecha/store-info/blob/main/src/map_locator.gif)
 </details>
 
 <details><summary>If you want to go back click on the `Home` button on the ribbon</summary>
+  
 ![img](https://github.com/amanbagrecha/store-info/blob/main/src/back_home.png)
 </details>
 
