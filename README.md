@@ -15,7 +15,7 @@ That's pretty easy. The application is hosted on github pages which can be acces
 ![img](https://github.com/amanbagrecha/store-info/blob/main/src/map_locator.gif)
 </details>
 
-<details><summary>If you want to go back click on the `Home` button on the ribbon</summary>
+<details><summary>If you want to go back click on the <code>Home</code> button on the ribbon</summary>
   
 ![img](https://github.com/amanbagrecha/store-info/blob/main/src/back_home.png)
 </details>
@@ -54,7 +54,7 @@ start index.html
 ## 📋 Further modification that can be done.
 - [ ] On marker click, display info as sidebar.
 - [ ] Have editing feature to add new stores and fill in information.
-- [ ] implement using openlayers.
+- [ ] Implement using openlayers.
 - [ ] Enhance the User-Interface using HTML/CSS.
 - [ ] Store data in database
 
